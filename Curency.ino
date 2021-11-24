@@ -31,8 +31,8 @@ int start2=25;
 String buttons2[3][4]={{"7","4","1","0"},{"8","5","2","."},{"9","6","3","ok"}};
 int cF[3][4]={{0,1,2,3},{4,5,6,7},{8,9,10}};
 
-const char* ssid     = "IGK202";       ///EDIIIT
-const char* password = "18072019";
+const char* ssid     = "xxxxxxxxxxxxxx";       ///EDIIIT
+const char* password = "xxxxxxxxxxxxx";
 float amount=1.00000;
 bool calcStarted=0;
 bool dataStarted=0;
